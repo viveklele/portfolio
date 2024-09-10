@@ -4,6 +4,10 @@ function togglemenu(){
     menu.classList.toggle("open");
     icon.classList.toggle("open");
 }
+function linkdin() {
+    window.location.href = 'https://www.linkedin.com/in/your-profile-url';
+}
+
 
 
 
